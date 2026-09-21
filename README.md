@@ -2,7 +2,7 @@
 
 <img src="docs/assets/agentrewindrt-header.gif" alt="AgentRewindRT 项目名快速跳变动图" width="580" />
 
-**面向AI Agent提供安全执行沙箱，实时检测原始意图与工作空间变更的一致性，自动化识别异常并支持异常会话的一键回滚**
+**面向AI Agent提供安全沙箱，实时检测原始请求与工作空间变更的一致性，自动识别风险并支持异常会话的一键回滚**
 
  [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](ai_agent/pyproject.toml)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 

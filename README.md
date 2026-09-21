@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="docs/assets/agentrewindrt-header.gif" alt="AgentRewindRT 项目名快速跳变动图" width="490" />
+<img src="docs/assets/agentrewindrt-header.gif" alt="AgentRewindRT 项目名快速跳变动图" width="650" />
 
-**面向AI Agent提供安全执行沙箱，支持会话级意图与变更一致性安全分析，支持异常会话一键回滚**
+**面向AI Agent提供安全执行沙箱，支持会话级意图与变更一致性安全分析和异常会话一键回滚**
 
  [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](ai_agent/pyproject.toml)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
